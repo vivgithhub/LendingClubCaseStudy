@@ -24,7 +24,7 @@
 
 ### Contributors
 - Vivek Trivedi
-- Muniraja Murugan
+- Muniaraja Murugan
 
 
 
